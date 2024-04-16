@@ -1,0 +1,83 @@
+/* Genel Stil */
+body {
+                                                  font-family: 'Poppins', sans-serif;
+                                                  margin: 0;
+                                                  padding: 0;
+                                                  box-sizing: border-box;
+                                                  background-color: #f2f2f2;
+                                              }
+                                              
+                                              .container {
+                                                  max-width: 1200px;
+                                                  margin: 0 auto;
+                                                  padding: 20px;
+                                              }
+                                              
+                                              header {
+                                                  background-color: #333;
+                                                  color: #fff;
+                                                  padding: 10px 0;
+                                              }
+                                              
+                                              nav ul {
+                                                  list-style-type: none;
+                                                  margin: 0;
+                                                  padding: 0;
+                                              }
+                                              
+                                              nav ul li {
+                                                  display: inline;
+                                                  margin-right: 20px;
+                                              }
+                                              
+                                              nav ul li a {
+                                                  color: #fff;
+                                                  text-decoration: none;
+                                              }
+                                              
+                                              main {
+                                                  margin-top: 20px;
+                                              }
+                                              
+                                              section {
+                                                  margin-bottom: 30px;
+                                              }
+                                              
+                                              /* Özel Stiller */
+                                              h1, h2 {
+                                                  font-weight: 700;
+                                              }
+                                              
+                                              ul {
+                                                  padding-left: 20px;
+                                              }
+                                              
+                                              strong {
+                                                  font-weight: 700;
+                                                  color: #333;
+                                              }
+                                              
+                                              /* Footer Stili */
+                                              footer {
+                                                  margin-top: 50px;
+                                                  text-align: center;
+                                                  color: #777;
+                                              }
+                                              
+                                              /* Resim Stili */
+                                              .dukkan-resmi {
+                                                  max-width: 100%;
+                                                  height: auto;
+                                                  margin-top: 20px;
+                                              }
+                                              
+                                              /* Öne Çıkan Gitarlar Stili */
+                                              ul {
+                                                  list-style-type: disc;
+                                                  margin-left: 20px;
+                                              }
+                                              
+                                              li {
+                                                  margin-bottom: 10px;
+                                              }
+                                              
